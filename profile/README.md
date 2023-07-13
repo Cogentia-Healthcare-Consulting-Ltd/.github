@@ -11,4 +11,6 @@ Our teams work on projects which range from gauging the potential of early disco
 <p>
 Clients can trust us to partner with them in bringing new innovations to market and enabling patient access, on long term as well as ad-hoc projects.
 </p>
+<p>
 With a strong combination of public sector, industry and consulting experience we are able to deliver genuine insights across multiple stakeholder perspectives ensuring that our clients get both the highest quality research and the know-how to make it count.
+</p>
