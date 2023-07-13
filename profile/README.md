@@ -1,7 +1,5 @@
 ## About
-<body>
 <img src="/profile/Cogentia-logo-RED-4-XLARGE-1200x288px.jpg" width="220" align="right" />
-<br/>
 <p>
 Founded in 2010, Cogentia supports pharmaceutical and healthcare companies in getting their products to market and ensuring patient uptake.
 </p>
