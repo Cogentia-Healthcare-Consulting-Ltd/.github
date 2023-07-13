@@ -1,4 +1,4 @@
-<img src="Cogentia-logo-RED-4-XLARGE-1200x288px.jpg" width="260" align="center" />
+<img src="/profile/Cogentia-logo-RED-4-XLARGE-1200x288px.jpg" width="260" align="center" />
 <br/>
 
 ## About
