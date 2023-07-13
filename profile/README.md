@@ -1,12 +1,11 @@
-## Hi there 👋
+## About
 
 <!--
+Founded in 2010, Cogentia supports pharmaceutical and healthcare companies in getting their products to market and ensuring patient uptake.
 
-**Here are some ideas to get you started:**
+Our teams work on projects which range from gauging the potential of early discoveries through to adjusting the pricing of mature products. Based in Cambridge, we are recognised as one of the UK's leading market access consultancies, handling projects across all major therapeutic areas in markets throughout the world. We work for established pharmaceutical, device and diagnostic companies as well as biotechs, start-ups and investors working on products throughout their lifecycles.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Clients can trust us to partner with them in bringing new innovations to market and enabling patient access, on long term as well as ad-hoc projects.
+
+With a strong combination of public sector, industry and consulting experience we are able to deliver genuine insights across multiple stakeholder perspectives ensuring that our clients get both the highest quality research and the know-how to make it count.
 -->
